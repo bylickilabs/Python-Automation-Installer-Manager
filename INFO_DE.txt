@@ -51,8 +51,10 @@ Damit behältst du jederzeit die volle Kontrolle über dein System.
 🧩 Virtuelle Umgebung (venv)
 
 Einige meiner Projekte benötigen eine virtuelle Python-Umgebung - die benötigten Funktionen sind bereits in Python enthalten und müssen nicht zusätzlich installiert werden.
+
 Je nach Repository findest du entweder:
 ✔ eine automatische .bat-Datei
+
 Die .bat führt z. B. folgende Schritte aus:
 • venv erstellen
 • venv aktivieren
@@ -63,6 +65,7 @@ Die .bat führt z. B. folgende Schritte aus:
 
 Alle .bat-Dateien können ganz einfach per Doppelklick gestartet werden.
 Kein Terminal öffnen, kein Befehl eingeben – Windows erledigt alles automatisch.
+
 oder ✔ ein leicht verständliches .txt-Dokument
 mit klaren Schritt-für-Schritt-Anweisungen für alle Prozesse.
 
