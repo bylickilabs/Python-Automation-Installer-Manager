@@ -44,5 +44,5 @@ This creates a strong foundation for users who want to run or develop Python app
 
 ---
 
-## 📄 License
+## 📄 License [LICENSE](LICENSE)
 Free to modify and extend.
