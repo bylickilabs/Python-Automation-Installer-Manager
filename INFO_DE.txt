@@ -121,6 +121,7 @@ Durch das neue Installationsscript und die automatisierten Prozessdateien könne
 Python wirkt für viele wie (Hä) oder ein großes (?), aber professionell genutzt gehört sie für mich zu den besten und gleichzeitig effizientesten Skriptsprachen überhaupt.
 
 ---
+
 Ich nutze Python bevorzugt, weil man damit:
 • hochkomplexe Aufgaben extrem schnell lösen kann
 • Sicherheits- und Analysemechanismen effizient entwickelt
