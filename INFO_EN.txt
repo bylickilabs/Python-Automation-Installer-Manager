@@ -42,8 +42,10 @@ Download from the official website (direct link):
 
 🔒 Data privacy & user control:
 For security reasons, it's important that you briefly confirm which options are being installed in the Python installer itself.
+
 In most cases, this simply means:
 • ➡️ "Next" → "Install" → "Finish"
+
 This way, you retain full control over your system at all times.
 
 ---
@@ -79,12 +81,14 @@ After downloading:
 
 Right-click in the project folder
 • "Open in Terminal"
-Run the following command:
 
+Run the following command:
 `pip install -r requirements.txt`
+
 This will automatically install all necessary modules in Python.
 
---
+---
+
 ▶️ How to start a Python application?
 
 In the terminal within the project directory, simply:
@@ -139,6 +143,7 @@ Thanks to the new installation script and automated process files, all users –
 📌 Additional short post: Why I prefer Python
 
 🐍 Python – demanding, but extremely powerful
+
 --- 
 
 For many, Python seems like (Huh?) or a big (?), but when used professionally, it's one of the best and most efficient scripting languages ​​available.
