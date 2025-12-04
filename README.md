@@ -1,4 +1,4 @@
-## 🧰 Python Automation Installer Manager
+### 🧰 Python Automation Installer Manager (DE/EN)
 *Automated Setup · Smart Configuration · Beginner-Friendly Workflow*
 
 | <img width="1280" height="640" alt="automation" src="https://github.com/user-attachments/assets/b9e5bdfa-6a31-45b4-b948-700c02dd1f46" /> |
