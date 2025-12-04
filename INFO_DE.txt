@@ -73,11 +73,14 @@ Damit installiert Python alle benötigten Module vollautomatisch.
 ---
 
 ▶️ Wie startet man eine Python-Anwendung?
+
 Im Terminal innerhalb des Projektverzeichnisses einfach:
 • python app.py
 - oder – je nach Projektstruktur:
 • python main.py
+
 ---
+
 🗄️ Automatische Datenbanken in manchen Anwendungen
 Einige meiner Anwendungen erzeugen automatisch eine lokale Datenbank, um:
 • Einstellungen zu speichern
