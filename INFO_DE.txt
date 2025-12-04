@@ -11,13 +11,17 @@ Um das Script zu starten, klicke mit der rechten Maustaste darauf und führe:
 ---
 
 ⚠️🚨 ACHTUNG! 🚨⚠️
+
 In einigen Fällen kann es vorkommen, dass der (Installer) hängen bleibt 🛑 oder es unter Umständen länger dauert, bis die Installation startet ⏳⚙️.
 Dies kann z. B. verursacht werden durch:
+
 • ⚙️ Windows-Einstellungen
 • 🔥 Firewall-Blockaden
 • 🛡️ Antiviren- oder Sicherheitsprogramme
 • 🚫 blockierte Hintergrundprozesse
+
 👉 Wenn dies passiert:
+
 Beende das Script ❌
 und führe die Installation vollständig manuell durch 🖱️📥.
 Download von der Offiziellen Seite (Direktlink):
@@ -26,6 +30,7 @@ Download von der Offiziellen Seite (Direktlink):
 ---
 
 🔧 Was das Installationsscript für dich übernimmt
+
 ✔ Lädt automatisch die richtige Python-Version herunter
 ✔ Kopiert den Installer selbstständig auf den Desktop
 ✔ Führt die komplette Installation automatisch aus
@@ -34,6 +39,7 @@ Download von der Offiziellen Seite (Direktlink):
 ---
 
 🔒 Datenschutz & Benutzerkontrolle:
+
 Aus Sicherheitsgründen ist es wichtig, dass du beim Python-Installer selbst kurz bestätigst, welche Optionen installiert werden.
 In den meisten Fällen bedeutet das nur:
 • ➡️ „Weiter“ → „Installieren“ → „Fertig stellen“
@@ -51,23 +57,28 @@ Die .bat führt z. B. folgende Schritte aus:
 • venv aktivieren
 • requirements installieren
 • Anwendung starten
+
 💡 Und das Beste:
+
 Alle .bat-Dateien können ganz einfach per Doppelklick gestartet werden.
 Kein Terminal öffnen, kein Befehl eingeben – Windows erledigt alles automatisch.
-oder
-✔ ein leicht verständliches .txt-Dokument
+oder ✔ ein leicht verständliches .txt-Dokument
 mit klaren Schritt-für-Schritt-Anweisungen für alle Prozesse.
 
 ---
 
 📦 Abhängigkeiten per requirements.txt installieren
+
 In jedem Repository befindet sich die Datei:
 • requirements.txt
+
 Nach dem Download:
 • Rechtsklick in den Projektordner
 • „Im Terminal öffnen“
+
 Den folgenden Befehl ausführen:
 • pip install -r requirements.txt
+
 Damit installiert Python alle benötigten Module vollautomatisch.
 
 ---
@@ -82,23 +93,28 @@ Im Terminal innerhalb des Projektverzeichnisses einfach:
 ---
 
 🗄️ Automatische Datenbanken in manchen Anwendungen
+
 Einige meiner Anwendungen erzeugen automatisch eine lokale Datenbank, um:
 • Einstellungen zu speichern
 • Anwendungs-Logs abzulegen
 • Abläufe zu sichern
 • dateispezifische Inhalte bereitzuhalten
+
 Diese Datenbanken werden automatisch erstellt und verwaltet.
 Du musst nichts konfigurieren oder installieren.
 
 ---
 
 🔐 100 % lokal – keine Cloud, keine Server, kein Tracking
+
 Alle BYLICKILABS-Pythonanwendungen:
+
 • senden keine Daten an meine Server
 • verbinden sich nie mit einer Cloud
 • führen keine externen Übertragungen durch
 • arbeiten ausschließlich lokal auf deinem eigenen System
 • Deine Daten gehören dir – und bleiben bei dir.
+
 🟩 Auch für vollständige Anfänger geeignet
 ✔ Alles kann per Terminal oder per Doppelklick gestartet werden
 ✔ Viele Projekte haben automatische .bat-Starter
@@ -110,6 +126,7 @@ Alle BYLICKILABS-Pythonanwendungen:
 ---
 
 🔥 Fazit
+
 Durch das neue Installationsscript und die automatisierten Prozessdateien können alle Nutzer – vom Einsteiger bis zum Power-User – die Python-Repositories von BYLICKILABS sofort und vollständig nutzen.
 👉 Herunterladen
 👉 Entpacken
@@ -131,4 +148,5 @@ Ich nutze Python bevorzugt, weil man damit:
 • KI-Funktionen flexibel integriert
 • Automatisierungen und Systemtools sauber umsetzt
 • sowohl kleine Tools als auch Enterprise-Systeme bauen kann
+
 Keine andere Sprache verbindet Eleganz, Geschwindigkeit und Leistungsfähigkeit auf diesem Niveau - deshalb ist Python für viele meiner Projekte die erste Wahl.
