@@ -1,16 +1,15 @@
 BYLICKILABS repositories for everyone – from beginners to advanced users!
-
 Good news for those who have little or no experience with Python but still want to use my projects:
-
 I've developed a fully automated Windows installation script that handles all the steps – from downloading to the complete installation of Python.
-
 This means that even absolute beginners without any technical knowledge can now easily use any of my Python applications.
 
---- To start the script, right-click on it and select:
+--- 
 
+To start the script, right-click on it and select:
 • (Run as administrator).
 
 ---
+
 ⚠️🚨 ATTENTION! 🚨⚠️
 In some cases, the installer may get stuck 🛑 or, under certain circumstances, it may take longer to start ⏳⚙️.
 
@@ -26,9 +25,13 @@ Stop the script ❌
 and complete the installation manually 🖱️📥.
 
 
-``` Download from the official website (direct link):
+``` 
+
+Download from the official website (direct link):
 • https://www.python.org/.../3.14.1/python-3.14.1-amd64.exe
+
 ---
+
 🔧 What the installation script does for you:
 ✔ Automatically downloads the correct Python version
 ✔ Automatically copies the installer to your desktop
@@ -36,12 +39,10 @@ and complete the installation manually 🖱️📥.
 ✔ Optimally prepares Windows for all my Python projects
 
 ---
+
 🔒 Data privacy & user control:
-
 For security reasons, it's important that you briefly confirm which options are being installed in the Python installer itself.
-
 In most cases, this simply means:
-
 • ➡️ "Next" → "Install" → "Finish"
 This way, you retain full control over your system at all times.
 
@@ -87,11 +88,9 @@ This will automatically install all necessary modules in Python.
 ▶️ How to start a Python application?
 
 In the terminal within the project directory, simply:
-
 `python app.py`
 
 - or - depending on the project structure:
-
 `python main.py`
 
 ---
@@ -128,21 +127,25 @@ All BYLICKILABS Python applications:
 ✔ Virtual environments are also provided via .bat
 
 ---
+
 🔥Conclusion
 Thanks to the new installation script and automated process files, all users – from beginners to power users – can immediately and fully utilize the BYLICKILABS Python repositories.
 
 👉 Download
 👉 Unzip
 👉 Install the requirements or
-
 👉 Run the script or .bat file
 👉 Get started right away
 📌 Additional short post: Why I prefer Python
 
 🐍 Python – demanding, but extremely powerful
---- For many, Python seems like (Huh?) or a big (?), but when used professionally, it's one of the best and most efficient scripting languages ​​available.
+--- 
 
---- I prefer Python because it allows you to:
+For many, Python seems like (Huh?) or a big (?), but when used professionally, it's one of the best and most efficient scripting languages ​​available.
+
+--- 
+
+I prefer Python because it allows you to:
 • Solve highly complex tasks extremely quickly
 • Efficiently develop security and analysis mechanisms
 • Flexibly integrate AI functions
