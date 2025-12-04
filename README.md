@@ -1,4 +1,4 @@
-# 🧰 Python Automation Installer Manager
+## 🧰 Python Automation Installer Manager
 *Automated Setup · Smart Configuration · Beginner-Friendly Workflow*
 
 The **Python Automation Installer Manager** is an automated Windows installation and configuration script designed to streamline the setup of a clean and stable Python environment.
