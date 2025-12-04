@@ -24,6 +24,7 @@ Dies kann z. B. verursacht werden durch:
 
 Beende das Script ❌
 und führe die Installation vollständig manuell durch 🖱️📥.
+
 Download von der Offiziellen Seite (Direktlink):
 • https://www.python.org/.../3.14.1/python-3.14.1-amd64.exe
 
